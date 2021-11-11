@@ -1,0 +1,8 @@
+---
+title: Pied-winged swallow
+creator: Charles J. Sharp
+licence: CC BY-SA 4.0
+licence-url: https://creativecommons.org/licenses/by-sa/4.0/deed.en
+image-url: https://upload.wikimedia.org/wikipedia/commons/2/2f/Pied-winged_swallow_%28Hirundo_leucosoma%29.jpg
+date: 20 December 2016
+---
