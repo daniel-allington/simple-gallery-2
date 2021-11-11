@@ -1,0 +1,21 @@
+---
+---
+
+<head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+</head>
+<body>
+    <div class="container">
+        <nav>
+            <a href="{{ site.baseurl }}/">Gallery index</a>
+            <a href="{{ site.baseurl }}/about">About gallery</a>
+        </nav>
+    </div>
+    <div class="container">
+        <img src = "{{ page.image-url }}">
+        <p>{{ page.title }} by {{ page.creator }}</p>
+        <p>{{ page.date }}</p>
+        <p><a href="{{ page.licence-url }}">{{ page.licence }}</a></p>
+    </div>
+</body>
