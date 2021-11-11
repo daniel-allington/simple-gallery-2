@@ -1,5 +1,5 @@
 ---
-title: Purple-throated carib
+title: Purple-throated carib hummingbird
 creator: Charles J. Sharp
 licence: CC BY 3.0
 licence-url: https://creativecommons.org/licenses/by/3.0/deed.en

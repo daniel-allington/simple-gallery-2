@@ -1,5 +1,5 @@
 ---
-title: Violet-tailed sylph
+title: Violet-tailed sylph hummingbird
 creator: Joseph C. Boone
 licence: CC BY-SA 4.0
 licence-url: https://creativecommons.org/licenses/by-sa/4.0/deed.en
