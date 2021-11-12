@@ -1,6 +1,6 @@
 ---
 title: Great blue heron
-creator: Christian Mehlführer
+creator: Christian Mehlf&uuml;hrer
 licence: CC BY 2.5
 licence-url: https://creativecommons.org/licenses/by/2.5/deed.en
 image-url: https://upload.wikimedia.org/wikipedia/commons/7/7e/Graureiher.jpg
