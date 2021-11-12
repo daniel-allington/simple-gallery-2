@@ -4,9 +4,8 @@ layout: index
 ---
 
 {% for exhibit in site.exhibits %}
-
-<img src="{{ exhibit.image-url }}" width = 256>
-<p>{{ exhibit.title }} by {{ exhibit.creator }}</p>
+{% assign creator = site.data.creators | find: "name", exhibit.creator %}
+<a href = "{{ site.baseurl }}{{ exhibit.url }}"><img src="{{ exhibit.image-url }}" width = 256></a>
+<p><a href = "{{ site.baseurl }}{{ exhibit.url }}">{{ exhibit.title }}</a> by <a href = "{{ creator.homepage }}">{{ exhibit.creator }}</a></p>
 <p><a href="{{ exhibit.licence-url }}">{{ exhibit.licence }}</a></p>
-
 {% endfor %}
