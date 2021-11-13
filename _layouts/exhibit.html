@@ -1,6 +1,7 @@
 ---
 ---
 
+{% assign licence_url = site.data.licences | find: "licence", page.licence %}
 {% assign creator = site.data.creators | find: "name", page.creator %}
 
 <head>
@@ -18,6 +19,6 @@
         <img src = "{{ page.image-url }}">
         <p>{{ page.title }} by <a href = "{{ creator.homepage }}">{{ page.creator }}</a></p>
         <p>{{ page.date | date: "%d %B %Y"}}</p>
-        <p><a href="{{ page.licence-url }}">{{ page.licence }}</a></p>
+        <p><a href="{{ licence_url.url }}">{{ page.licence }}</a></p>
     </div>
 </body>
