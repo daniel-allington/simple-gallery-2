@@ -23,7 +23,7 @@ email: daniel.allington@kcl.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Simple gallery featuring images from Wikipedia.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://simple-gallery.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://simple-gallery-2.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 plugins:
